@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lumière Beauty Salon",
+  "description": "Um portal elegante para marcação de serviços de beleza, com sistema de login, gestão de agendamentos e um assistente de IA personalizado.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
